@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Cox's Bazar",
+        "image": "/Rectangle 1.png",
+        "details": "Cox's Bazar is famous for its 120 km long natural sea beach, the longest in the world. The golden sandy shoreline stretches as far as the eye can see, offering breathtaking views of the Bay of Bengal. Tourists flock here to enjoy the gentle waves, take leisurely strolls, and collect seashells. Adventure seekers can try water sports like surfing and jet-skiing. Don't forget to explore nearby attractions like Inani Beach and Himchari National Park, which are equally stunning."
+    },
+    {
+        "title": "Sundarbans",
+        "image": "/sundorbon.jpg",
+        "details": "The Sundarbans, a UNESCO World Heritage Site, is a mesmerizing maze of mangrove forests and waterways. This unique ecosystem is home to the majestic Bengal tiger, along with various other wildlife species like saltwater crocodiles, spotted deer, and countless bird species. Visitors can embark on thrilling boat tours through the dense mangrove forest, keeping a keen eye out for the elusive tigers. The tranquil beauty of this place, with its labyrinthine water channels and vibrant biodiversity, is a must-see for nature enthusiasts and wildlife lovers."
+    },
+    {
+        "title": "Sreemangal",
+        "image": "/sremongol.jpg",
+        "details": "Sreemangal, often referred to as the 'Tea Capital of Bangladesh,' is a paradise for tea connoisseurs and nature enthusiasts. The landscape is adorned with rolling hills covered in lush tea gardens, where the air is filled with the aroma of freshly plucked tea leaves. Visitors can explore the tea estates, learn about the tea production process, and even enjoy tea tasting sessions. Nature lovers can trek through Lawachara National Park to discover a rich variety of flora and fauna, including unique bird species. When in Sreemangal, don't forget to savor local culinary delights like bamboo chicken and mouthwatering sweets."
+    },
+    {
+        "title": "Bandarban",
+        "image": "/Bandorban.jpg",
+        "details": "Bandarban, the picturesque hill district of Bangladesh, is a haven for those seeking serene natural beauty and adventure. It boasts stunning landscapes, indigenous communities, and trekking opportunities that lead to unforgettable experiences. The district is home to the highest peak in Bangladesh, Tahjindong, which trekkers can conquer for panoramic views of the surrounding hills. Travelers can immerse themselves in the culture of indigenous tribes, visit vibrant tribal markets, and sample their traditional cuisine. Additionally, Bandarban is dotted with beautiful waterfalls like Nafakhum and Amiakhum, making it a perfect destination for nature lovers and adventure enthusiasts alike."
+    }
+]
